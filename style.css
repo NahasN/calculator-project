@@ -1,0 +1,56 @@
+body{
+    /* background: linear-gradient(to top left, #28b487, #7dd56f); */
+    background-image: linear-gradient(to right top, #00d766, #00d47d, #00d190, #00cd9f, #00c8ab, #0ecab4, #1ccdbc, #29cfc4, #39dacf, #46e5da, #53f0e6, #5ffbf1);
+    
+}
+h1{
+    text-align: center;
+    color: #080808;
+}
+.container{
+    width: 460px;
+    height: 570px;
+    background-color: rgb(143, 143, 143);
+    margin: auto;
+    border-radius: 10px;
+}
+
+#screen{
+    /* background-color: #8bb9c8; */
+    background-color: rgb(117, 195, 244);
+    height: 9=80px;
+    width: 440px;
+    margin: 5px;
+    font-size: 4rem;
+    text-align: right;
+    border-radius: 10px;
+    caret-color: rgb(134, 41, 5);
+    margin-top: 30px;
+}
+
+.button{
+    background-color: rgb(0, 0, 0);
+    color: #fff;
+    width: 92px;
+    height: 70px;
+    font-size: 2.5rem;
+    margin: 10px;
+    border-radius: 15px;
+}
+.clear{
+    background-color: rgb(255, 0, 0);
+    height: 70px;
+    width: 88px;
+    
+}
+.operator{
+    background-color: rgb(10, 174, 57);
+}
+.back{
+    background-color: #000000;
+    /* margin-left: 245px; */
+}
+.button:hover{
+    border:5px solid rgba(255, 255, 255, 0.886);
+}
+
