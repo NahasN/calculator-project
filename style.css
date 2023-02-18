@@ -6,7 +6,8 @@ body{
 h1{
     text-align: center;
     color: #080808;
-    font-size: 20px;
+    font-size: 22px;
+    font-weight: 700;
 }
 .container{
     width: 460px;
