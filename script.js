@@ -1,3 +1,5 @@
+'use strict';
+
 const screen = document.getElementById('screen');
 
 function btnClick(value) {
